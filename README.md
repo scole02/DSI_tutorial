@@ -1,5 +1,5 @@
 # DSI_tutorial
-1. Download the Tutorial folder containing
+1. Download the three files in the Tutorial folder 
     - tutorial.ipynb
     - Graduates.py
     - Graduates.data
