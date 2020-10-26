@@ -1,6 +1,6 @@
 # DSI_tutorial
-1. Download the folder containing
-    - Notebook.ipynb
+1. Download the Tutorial folder containing
+    - tutorial.ipynb
     - Graduates.py
     - Graduates.data
   
