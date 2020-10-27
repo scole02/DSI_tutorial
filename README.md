@@ -44,4 +44,4 @@ _All these files should be in the_ _same_ _folder after uploading_
 
 Note: This instance of Jupyter Lab does NOT save your progress, if your session times out or the page closes, all your progress will be lost! Download the notebook if you wish to continue later.
 
-3. Click on &quot;tutorial.ipynb&quot; and open the notebook
+6.Click on &quot;tutorial.ipynb&quot; and open the notebook
