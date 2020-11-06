@@ -48,4 +48,7 @@ _All these files should be in the_ _same_ _folder after uploading_
 
 Note: This instance of Jupyter Lab does NOT save your progress, if your session times out or the page closes, all your progress will be lost! Download the notebook if you wish to continue later.
 
-6.Click on &quot;Intro to Jupyter Notebook.ipynb&quot; and open the notebook
+6. Click on &quot;Intro to Jupyter Notebook.ipynb&quot;, open the notebook and follow the instructions.
+7. Click on &quot;Dictionaries and Lists.ipynb&quot;, open the notebook and follow the instructions.
+8. Click on &quot;For Loops and If Statements.ipynb&quot;, open the notebook and follow the instructions.
+9. Click on &quot;CORGIS Tutorial.ipynb&quot;, open the notebook and follow the instructions.
