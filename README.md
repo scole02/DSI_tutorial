@@ -1,4 +1,4 @@
-# DSI_tutorial
+# DSI Tutorial
 1. Download the 6 files in the Tutorial folder:
     - CORGIS Tutorial.ipynb
     - Dictionaries and Lists.ipynb
